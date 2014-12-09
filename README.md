@@ -26,7 +26,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Uutisia
 
-##### Demo tilaisuudet 
+##### Demotilaisuudet 
 * Ensimmäinen demo on **torstaina 11.12. klo 18 eteenpäin** Luokassa *B221*
 * Toinen demo on **perjantaina 12.12 klo 14 eteenpäin** Luokassa *B221*
 
